@@ -7,5 +7,3 @@ Kelas : PBP C
 Hobi : Tidur
 
 Jurusan : Ilmu Sistem Informasi Komputer
-
-This project is designed to be `simple` and effective.
